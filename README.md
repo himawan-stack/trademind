@@ -39,10 +39,10 @@ https://helpful-tarsier-7a8d3d.netlify.app/
 
 ## Screenshots
 ### Overview
-![Overview](./screenshots/overview.png)
+screenshots/screenshot:overview.png
 
 ### Trade Reflection
-![Reflection](./screenshots/reflection.png)
+
 
 ## Limitations
 - Uses client-side API calls (not secure for production)
