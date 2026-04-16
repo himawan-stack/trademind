@@ -39,7 +39,10 @@ https://helpful-tarsier-7a8d3d.netlify.app/
 
 ## Screenshots
 ### Overview
-screenshots/screenshot:overview.png
+[screenshots/screenshot:overview.png](https://github.com/himawan-stack/trademind/blob/6634ab93bb375a19df61d414f409747a030536fb/screenshots/screenshot%3Aoverview.png)
+
+### Reflection
+
 
 ### Trade Reflection
 
