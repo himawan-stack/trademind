@@ -8,6 +8,19 @@ It helps users:
 - receive AI-generated insights
 - improve their next decisions
 
+## Why this matters
+Beginner traders often struggle to learn from their past trades. 
+TradeMind helps them reflect in a structured way, identify behavioural patterns, 
+and make better decisions over time.
+
+## AI Integration
+TradeMind uses the Gemini API to analyse user reflections and generate:
+- behavioural patterns
+- possible mistakes
+- actionable next steps
+
+This helps transform raw journaling into meaningful insights.
+
 ## Live Demo
 https://helpful-tarsier-7a8d3d.netlify.app/
 
@@ -23,6 +36,12 @@ https://helpful-tarsier-7a8d3d.netlify.app/
 - AI-generated insights (Gemini API)
 - Behavioural pattern detection
 - Beginner-friendly UX
+
+## Limitations
+- Uses client-side API calls (not secure for production)
+- Uses demo trade data (no full Deriv account integration yet)
+
+This is a hackathon prototype focused on UX and decision support.
 
 ## Tech Stack
 - HTML
