@@ -37,6 +37,13 @@ https://helpful-tarsier-7a8d3d.netlify.app/
 - Behavioural pattern detection
 - Beginner-friendly UX
 
+## Screenshots
+### Overview
+![Overview](./screenshots/overview.png)
+
+### Trade Reflection
+![Reflection](./screenshots/reflection.png)
+
 ## Limitations
 - Uses client-side API calls (not secure for production)
 - Uses demo trade data (no full Deriv account integration yet)
