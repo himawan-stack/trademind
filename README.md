@@ -42,7 +42,7 @@ https://helpful-tarsier-7a8d3d.netlify.app/
 [screenshots/screenshot:overview.png](https://github.com/himawan-stack/trademind/blob/6634ab93bb375a19df61d414f409747a030536fb/screenshots/screenshot%3Aoverview.png)
 
 ### Reflection
-
+https://github.com/himawan-stack/trademind/blob/0aeaabf5b6f978dcd4b58f7c8c95761c82501b6d/screenshots/screenshot%3Areflection.png
 
 ### Trade Reflection
 
