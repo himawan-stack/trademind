@@ -11,6 +11,13 @@ It helps users:
 ## Live Demo
 https://helpful-tarsier-7a8d3d.netlify.app/
 
+## How to use
+1. Open the live app
+2. Go to "Review this trade"
+3. Enter your reflection answers
+4. Click "Save reflection"
+5. View AI-generated insights and suggestions
+
 ## Features
 - Trade reflection workflow
 - AI-generated insights (Gemini API)
