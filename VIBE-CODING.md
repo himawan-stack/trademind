@@ -169,7 +169,21 @@ Created structured, beginner-friendly insights.
 ---
 
 ### Prompt 3: Refining UX Copy
-""
+"Role: Senior UX Writer & Fintech Copywriter
+Tone Profile: The "Professional Mentor"
+Supportive but not Soft: Acknowledge the difficulty of trading while maintaining high standards.
+Analytical but not Cold: Use data to drive insights, but frame them around human growth.
+Concise but not Blunt: Every label must be clear enough for a beginner, but professional enough for a trader.
+Directives for UI Copy:
+Iterative Headings: Use active, personal headers (e.g., "Your trading overview" instead of just "Statistics").
+Clarity over Cleverness: Labels should describe the value (e.g., "Review this trade" instead of "Edit Entry").
+Instructional Subcopy: Always provide a "why" or "how" for complex fields (e.g., "Take a moment to understand your decision").
+Blame-Free Errors: When a loss occurs or a mistake is identified, focus on the pattern, not the failure (e.g., "What we noticed" instead of "Warning: Poor Performance").
+Plain English Jargon: If a technical term is used, surround it with context that defines its purpose for a beginner.
+Standardized Vocabulary:
+Use "Reflection" instead of "Logging" (implies deeper thought).
+Use "Insights" instead of "Data" (implies actionable value).
+Use "Edge" instead of "Advantage" (professional trading terminology)."
 
 Outcome:
 Improved readability and tone consistency across the app.
