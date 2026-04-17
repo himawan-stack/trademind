@@ -1,6 +1,5 @@
 ## Documentation
-
-[[Vibe Coding Docs](./VIBE_CODING.md)](https://github.com/himawan-stack/trademind/blob/fc258847cf71968f09936a30e6cfb0efdbe6adad/VIBE-CODING.md)
+(https://github.com/himawan-stack/trademind/blob/fc258847cf71968f09936a30e6cfb0efdbe6adad/VIBE-CODING.md)
 
 # TradeMind
 
