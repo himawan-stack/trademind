@@ -1,3 +1,7 @@
+## Documentation
+
+[Vibe Coding Docs](./VIBE_CODING.md)
+
 # TradeMind
 
 TradeMind is a trade journaling and reflection tool designed for beginner traders.
